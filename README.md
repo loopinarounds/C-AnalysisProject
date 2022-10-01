@@ -1,5 +1,6 @@
 # C-AnalysisProject
 
+Find the attached Coursework.pdf for a run through of exactly what the program files do.
 
 Exemplery C++ Numerical Analysis Coursework from my Masters Degree class on C++ and Mathematical Computation.
 
